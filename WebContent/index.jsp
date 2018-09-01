@@ -7,7 +7,7 @@
 <title>Login Page</title>
 </head>
 <body>
-<h1>Login Page</h1>
+<h1>Login Here..</h1>
 <form method="post" action="LoginCheck" >
 	<table>
 	<tr><td>User Name</td><td><input type="text" name="username" value="" /></td></tr>
