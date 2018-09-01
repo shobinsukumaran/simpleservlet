@@ -15,6 +15,6 @@
 	<tr><td><input type="submit" name="login" value="Login" /></td></tr>
 	</table>
 </form>
-	<h3>Registration Page</h3>
+<h1>Registration Page</h1>
 </body>
 </html>
